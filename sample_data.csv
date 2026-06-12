@@ -1,0 +1,23 @@
+patient_id,gender,age_category,county,marital_status,total_encounters,average_encounter_duration_hrs
+P001,Male,Adult,Suffolk,Married,3,4.5
+P002,Female,Senior,Norfolk,Single,7,6.2
+P003,Female,Adult,Bristol,Divorced,2,3.8
+P004,Male,Young Adult,Suffolk,Married,1,2.1
+P005,Female,Senior,Norfolk,Widowed,9,7.4
+P006,Male,Adult,Devon,Single,4,5.0
+P007,Female,Adult,Suffolk,Married,2,3.3
+P008,Male,Senior,Bristol,Married,6,6.8
+P009,Female,Young Adult,Devon,Single,1,1.9
+P010,Male,Adult,Norfolk,Divorced,3,4.2
+
+encounter_id,patient_id,encounter_class,start_year,encounter_duration_hrs,payer_coverage,readmitted
+E001,P001,ambulatory,2021,3.5,1200.00,No
+E002,P001,emergency,2022,5.5,3400.00,Yes
+E003,P002,inpatient,2020,8.0,7500.00,No
+E004,P002,outpatient,2021,2.0,850.00,No
+E005,P003,ambulatory,2023,4.0,1100.00,No
+E006,P004,emergency,2022,2.1,2900.00,No
+E007,P005,inpatient,2021,9.0,8200.00,Yes
+E008,P006,outpatient,2023,3.8,950.00,No
+E009,P007,ambulatory,2022,3.3,1050.00,No
+E010,P008,inpatient,2020,7.2,6800.00,Yes
