@@ -67,3 +67,12 @@ An interactive Power BI dashboard analyzing hospital patient data to uncover ins
 **Jeolin Sibi S**  
 Aspiring Data Analyst | SQL • Power BI • Python • Excel  
 📧 jeolinsibi@gmail.com
+
+---
+
+## 📄 Related Publication
+
+Sibi, J. (2026). *Business Intelligence-Driven Analysis of Hospital Encounter Patterns and 30-Day Readmission Using Power BI: A Case Study on Synthetic Patient Data.* Zenodo. https://doi.org/10.5281/zenodo.21273022
+
+This paper builds on the dashboard in this repository, applying the full underlying dataset (974 patients, 27,891 encounters) to analyze encounter class distribution, payer coverage, and a derived 30-day hospital readmission rate.
+
